@@ -1,3 +1,3 @@
 ## Leetcode Jupyter Notebook
 
-Leetcode problems here.
+Leetcode problems all in one noteboook here.
